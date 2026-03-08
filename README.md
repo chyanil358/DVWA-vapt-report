@@ -4,7 +4,7 @@
 This project contains a vulnerablity Assessment and Penetration Testing (VAPT)  Report conducted Damn Vulnerable Web Application (DVWA). The objective of this project is to identify, exploit, and document security vulnerabilities in a controlled lab environment for educational purpose.
 
 ## Target Application
-Damn Vulnerable Web Application (DVWA)
+Damn Vulnerable Web Application (DVWA).
  DVWA is a intensionally vulnerable web application designed to help security beginer and students practice web penetration testing techniques and understand common web vulnerabilities.
 
  ## scope

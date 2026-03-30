@@ -1,3 +1,5 @@
+## Click the link Download report: https://raw.githubusercontent.com/chyanil358/DVWA-vapt-report/main/DVWA web report.pdf
+
 # DVWA-vapt-report
 #DVWA Web Application VAPT Report
 ## Overview
@@ -49,6 +51,6 @@ DVWA web report.pdf
  proof-of-concept screenshoots for each vulnerability are stored in the ScreenShot folder
 
  ## Disclaimer
- This project was conducted in a controlled lab environment using a purposly vulnerable application. The techniques demonstrated are intended strictly for educational and ethical security research purposes.
+ This Vulnerability Assessment and Penetration Testing (VAPT) was conducted in a controlled lab environment using a purposly vulnerable application. The techniques demonstrated are intended strictly for educational and ethical security research purposes.
 
 

@@ -1,4 +1,4 @@
-## Click the link to Download report: https://raw.githubusercontent.com/chyanil358/DVWA-vapt-report/main/DVWA%20web%20report.pdf
+## Click the link to Download report: https://raw.githubusercontent.com/chyanil358/DVWA-vapt-report/main/DVWA-web-report.pdf
 
 # DVWA-vapt-report
 #DVWA Web Application VAPT Report
